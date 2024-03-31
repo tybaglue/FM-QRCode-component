@@ -1,11 +1,25 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
+div{
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 30px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    
+}
 body{
     background-color: hsl(212, 45%, 89%);
 }
 img{
     align-self: center;
+    border-radius: 5px;
+    padding-left: 30px;
 }
 h1{
 font-family: 'Outfit' ;
@@ -13,4 +27,9 @@ font-family: 'Outfit' ;
 
 p{
     font-family: 'Outfit';
+}
+
+#textbox{
+    text-align: center;
+    margin-left: 10%;
 }
