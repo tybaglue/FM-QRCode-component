@@ -21,7 +21,7 @@ main{
 }
 
 .container{
-    max-width: 20rem;
+    max-width: 22rem;
     margin: 0 auto;
     
 }
@@ -44,7 +44,7 @@ main{
 }
 .text h2{
     color: hsl(218, 44%, 22%);
-    padding-bottom: 15px ;
+    margin-bottom: 15px ;
     font-weight: 700;
 }
 p{
